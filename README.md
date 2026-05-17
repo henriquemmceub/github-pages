@@ -21,4 +21,7 @@ Você pode visualizar a versão funcional de alguns projetos através do **GitHu
 👉 **https://github.com/HenriqueMota-dev/github-pages**
 
 
+##  Link do Linkedin:
+**https://www.linkedin.com/in/henrique-mota-monteiro-49079340b/**
+
 *Este repositório foi desenvolvido como parte de uma Entrega Intermediária acadêmica.*
