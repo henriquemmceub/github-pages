@@ -18,7 +18,7 @@ Tenho grande interesse e venho aprimorando minhas competências nas seguintes te
 ##  Projetos em Destaque
 Você pode visualizar a versão funcional de alguns projetos através do **GitHub Pages**:
 
-👉 **https://github.com/HenriqueMota-dev/github-pages/commit/9509f9813eb5c682477eb1018c5f5da47f0aa27c#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051**
+👉 **https://github.com/HenriqueMota-dev/github-pages**
 
 
 *Este repositório foi desenvolvido como parte de uma Entrega Intermediária acadêmica.*
